@@ -1,2 +1,3 @@
 # vecaris-core
-Custom simulated processor design
+VECARIS is short for VErilog written iCArus simulated Reduced Instrcution Set architecture
+It is a custom simulated processor design
